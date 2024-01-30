@@ -1,0 +1,10 @@
+go.sum
+/bin/
+/pkg/
+*.o
+*.a
+*.obj
+*.exe
+*.out
+*.dll
+
